@@ -1,0 +1,9 @@
+{
+  "CorsPaths": {
+    "OriginOne": "http://localhost:8080",
+    "OriginTwo": "http://localhost:8081",
+    "OriginOnes": "https://localhost:5001",
+    "OriginThree": "http://www.hrms.com:80/",
+    "OriginThrees": "https://www.hrms.com:80/"
+  }
+}

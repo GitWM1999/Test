@@ -1,0 +1,12 @@
+D:\实训一\在线教育\EducationOnline\Education.IRepository\bin\Debug\net5.0\Education.IRepository.deps.json
+D:\实训一\在线教育\EducationOnline\Education.IRepository\bin\Debug\net5.0\Education.IRepository.dll
+D:\实训一\在线教育\EducationOnline\Education.IRepository\bin\Debug\net5.0\ref\Education.IRepository.dll
+D:\实训一\在线教育\EducationOnline\Education.IRepository\bin\Debug\net5.0\Education.IRepository.pdb
+D:\实训一\在线教育\EducationOnline\Education.IRepository\obj\Debug\net5.0\Education.IRepository.csprojAssemblyReference.cache
+D:\实训一\在线教育\EducationOnline\Education.IRepository\obj\Debug\net5.0\Education.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\实训一\在线教育\EducationOnline\Education.IRepository\obj\Debug\net5.0\Education.IRepository.AssemblyInfoInputs.cache
+D:\实训一\在线教育\EducationOnline\Education.IRepository\obj\Debug\net5.0\Education.IRepository.AssemblyInfo.cs
+D:\实训一\在线教育\EducationOnline\Education.IRepository\obj\Debug\net5.0\Education.IRepository.csproj.CoreCompileInputs.cache
+D:\实训一\在线教育\EducationOnline\Education.IRepository\obj\Debug\net5.0\Education.IRepository.dll
+D:\实训一\在线教育\EducationOnline\Education.IRepository\obj\Debug\net5.0\ref\Education.IRepository.dll
+D:\实训一\在线教育\EducationOnline\Education.IRepository\obj\Debug\net5.0\Education.IRepository.pdb

@@ -1,0 +1,6 @@
+{
+  "UseDB": "MySql", // MySqlªÚ’ﬂSqlServer
+  "SqlServerConStr": "",
+  //"SqlServerConStr": "Data Source=10.3.181.38;User Id=alisa;Password=19991229;Initial Catalog=CommunityDb;Integrated Security=True",
+  "MySqlConStr": "Database=onlineeducation;Data Source=10.3.181.20;Port=3306;User Id=root;Password=gcy1314.;Charset=utf8;TreatTinyAsBoolean=false;"
+}
